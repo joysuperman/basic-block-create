@@ -1,5 +1,3 @@
-
-
 === First Block ===
 Contributors:      The WordPress Contributors
 Tags:              block
